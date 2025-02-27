@@ -1,0 +1,15 @@
+
+Principais falhas:
+ O Site da  "Desentupidora Rola Bosta", era um site muito mal planejado em suas cores e desing.
+O site continha muita informção escrita (o que não é ruim caso tenha uma ótima Tipográfia), estava 
+com uma péssima UX, tendo cores e funções expostas e repetidas (péssimo erro de UI). Como uma funcão
+que leva a um cadastro e meio de contato.
+
+Melhorias:
+
+* Melhora ma tipografia;
+* Ajustes nas cores das letras e de fundo;
+* Organização de informações (introdução e explicação do serviço);
+* Retirada de funções. Que atrapalhavam sua informações;
+* Novas logos. Graças ao nosso melhor friend "Chat GPT".
+
