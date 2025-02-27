@@ -1,0 +1,215 @@
+@font-face {
+  font-family: Neue Montreal;
+  src: url(fonts/NeueMontreal-Regular.otf);
+}
+
+@font-face {
+  font-family: Neue Montreal2;
+  src: url(fonts/NeueMontreal-Bold.otf);
+}
+
+.container {
+  position: relative;
+}
+
+main {
+  width: 100%;
+  height: 100%;
+}
+
+h2,
+p {
+  display: flex;
+  color: hsl(0, 0%, 0%);
+  justify-content: center;
+  align-items: center;
+}
+
+.contato {
+  color: hsl(0, 0%, 0%);
+  text-decoration: none;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.txts {
+  color: rgb(85, 85, 85);
+  font-size: 16px;
+}
+
+.txtinfo {
+  color: rgb(85, 85, 85);
+  font-size: 12px;
+}
+
+.info1 {
+  padding-top: 170px;
+  justify-content: center;
+  align-items: center;
+}
+
+.infos {
+  color: #ffffff;
+  padding-top: 30px;
+  font-family: Neue Montreal;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+}
+
+.titulos {
+  font-family: Neue Montreal2;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #287528;
+}
+
+.titulo {
+  font-family: Neue Montreal2;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fafafa;
+  font-size: 15px;
+}
+
+.logo {
+  width: 90px;
+  height: 90px;
+  border-radius: 80%;
+}
+
+.leftPlogo {
+  position: absolute;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.rightPlogo {
+  position: absolute;
+  padding-top: 50px;
+  padding-left: 130px;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-color: #ffffffec;
+}
+
+.ftback {
+  background-color: rgb(85, 85, 85);
+  width: 100%;
+  margin: 0, 0, 0, 0;
+  padding: 0%;
+}
+
+@media screen and (max-width:430) {
+  .container {
+    position: relative;
+  }
+
+  main {
+    width: 100%;
+    height: 100%;
+  }
+  
+  h2,
+  p {
+    display: flex;
+    color: hsl(0, 0%, 0%);
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contato {
+    color: hsl(0, 0%, 0%);
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .txts {
+    color: rgb(85, 85, 85);
+    font-size: 16px;
+  }
+  
+  .txtinfo {
+    color: rgb(85, 85, 85);
+    font-size: 12px;
+  }
+  
+  .info1 {
+    padding-top: 170px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .infos {
+    color: #ffffff;
+    padding-top: 30px;
+    font-family: Neue Montreal;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+  }
+  
+  .titulos {
+    font-family: Neue Montreal2;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #287528;
+  }
+  
+  .titulo {
+    font-family: Neue Montreal2;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fafafa;
+    font-size: 15px;
+  }
+  
+  .logo {
+    width: 90px;
+    height: 90px;
+    border-radius: 80%;
+  }
+  
+  .leftPlogo {
+    position: absolute;
+    padding-top: 20px;
+    padding-left: 20px;
+  }
+  
+  .rightPlogo {
+    position: absolute;
+    padding-top: 50px;
+    padding-left: 130px;
+  }
+  
+  body {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: #df2626ec;
+  }
+  
+  .ftback {
+    background-color: rgb(85, 85, 85);
+    width: 100%;
+    margin: 0, 0, 0, 0;
+    padding: 0%;
+  }
+}
