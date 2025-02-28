@@ -7,7 +7,7 @@ que leva a um cadastro e meio de contato.
 
 Melhorias:
 
-* Melhora ma tipografia;
+* Melhora na tipografia;
 * Ajustes nas cores das letras e de fundo;
 * Organização de informações (introdução e explicação do serviço);
 * Retirada de funções. Que atrapalhavam sua informações;
